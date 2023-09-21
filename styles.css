@@ -57,6 +57,30 @@
     padding-right: 350px;
 }
 
+.middle-title {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
+
+.middle-info-wrapper {
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+}
+
+.middle-info {
+    text-align: center;
+    max-width: 250px;
+}
+
+.middle-img {
+    max-width: 250px;
+    max-height: auto;
+}
+
 .btn{
     text-align: center;
     border-radius: 10px;
