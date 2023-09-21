@@ -52,8 +52,9 @@
 
 .header-list {
     display: flex;
+    align-items: center;
     gap: 16px;
-    padding-right: 32px;
+    padding-right: 350px;
 }
 
 .btn{
